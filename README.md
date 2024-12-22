@@ -21,5 +21,14 @@
   用于拟合流失率函数的多项式曲线，根据企业信用评级和贷款利率构建非线性函数。
 
 ### 其他文件
-- **README.md**  
-  当前的README文件，概述项目背景、文件结构和使用说明。
+- **File1.xlsx**  
+  附件1，包含123家企业的企业信息、进项及销项发票信息。
+
+- **File2.xlsx**
+  附件2，包含各个不同评级间的企业在不同贷款利率下的客户流失率数据。
+
+- **final_merged_data_with_predictions&loss.xlsx**
+  得到的对应违约概率的估计数据以及所使用到的各个企业的自变量数据的整合。
+
+- **updated_loan_decision_result_with_fluctuations.xlsx**
+  最终放贷决策数据。
